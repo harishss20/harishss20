@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harish011788@gmail.com**
 
-- ⚡ Fun fact **I Am Funny While Coding 👨‍💻**
+- ⚡ Fun fact **  Coding 👨‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
