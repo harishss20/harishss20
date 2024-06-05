@@ -21,13 +21,10 @@ const Harish = {
   pronouns: "He" | "him",
   technologies: {
     languages: ["Java", "C"],
-    frontEnd: {
-      Lan & Tools: ["HTML & CSS", "JavaScript", "React.js"]
+    Full-stack: {
+      js: ["HTML & CSS","React js", "MangoDB", "TailwindCSS" ,"Node", "Express"]
     },
-    backEnd: {
-      js: ["Node", "Express"]
-    },
-    databasesAndClouds: ["MongoDB", "MySQL", "Firebase", "Google Cloud"],
+    databases & Clouds: ["MongoDB", "MySQL", "Firebase", "Google Cloud"],
     tools: ["Postman API"],
   },
   funFact: "There are two ways to write error-free programs; only the third one works"
