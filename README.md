@@ -1,6 +1,6 @@
 <h1 align="center">👋 Howdy! I'm HARISH SS</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align="right" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="230">
 
 <p>
   <em>
