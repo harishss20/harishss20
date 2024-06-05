@@ -1,6 +1,5 @@
 <h1 align="center">👋 Howdy! I'm HARISH SS</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<iframe src="https://giphy.com/embed/xUPGcEliCc7bETyfO8" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/producthunt-cat-developer-xUPGcEliCc7bETyfO8">via GIPHY</a></p>
 
 <p>
   <em>
