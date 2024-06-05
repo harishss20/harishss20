@@ -4,12 +4,12 @@
 <p><em>Software Enginner at <a href="https://coderspacket.com/contributor/Harishss2002">codespeedy technology private limited</a></br>Personal Portfolio <a href="https://github.com/harishss20">Link </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: Harish SS]]([https://twitter.com/ThaiiBraga](https://x.com/Harishssdev))
+[![Twitter: Harish SS]]((https://x.com/Harishssdev))
 [![Linkedin: Harish SS]](https://www.linkedin.com/in/harishssofficical/)
 [![GitHub Harish SS]](https://github.com/harishss20)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fundo.io%2Fresources%2Fwhat-is-my-software-doing&psig=AOvVaw07x1gZ1L4rBu7vdkNR8IS3&ust=1717677693927000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCBo56-xIYDFQAAAAAdAAAAABAK)" width="50"> A little more about me...  
 
 ```javascript
 const Harish = {
