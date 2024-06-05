@@ -20,9 +20,9 @@
 const Harish = {
   pronouns: "He" | "him",
   technologies: {
-    languages: ["Java", "C", "JavaScript"],
+    languages: ["Java", "C"],
     frontEnd: {
-      native: ["HTML & CSS", "JavaScript", "React.js"]
+      Lan & Tools: ["HTML & CSS", "JavaScript", "React.js"]
     },
     backEnd: {
       js: ["Node", "Express"]
