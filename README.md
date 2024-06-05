@@ -1,43 +1,36 @@
-<h1 align="center">Hi 👋,I'm HARISH SS</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="380px" src="https://imgs.search.brave.com/vNRWoqK5KpX2lV9iFcCgcufOeHQ3oPIdX0eKuhf00NU/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzU3/NjlmYzQwMWI2MzFi/YWIxYWRkYjJhYi8x/NTQxNTgwNjExNjI0/LVRFNjRRR0tSSkc4/U1dBSVVTN05TL2Nv/ZGluZy1mcmVhay5n/aWY.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishss20&label=Profile%20views&color=0e75b6&style=flat" alt="harishss20" /> </p>
+<h1 align="center">👋Howdy!,I'm HARISH SS</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="https://coderspacket.com/contributor/Harishss2002">codespeedy technology private limited</a></br>Personal Portfolio <a href="https://github.com/harishss20">Link </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-- 🌱 I’m currently learning **Front-end developer**
+[![Twitter: Harish SS](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)]([https://twitter.com/ThaiiBraga](https://x.com/Harishssdev))
+[![Linkedin: Harish SS](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/harishssofficical/)
+[![GitHub Harish SS](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/harishss20)
 
-- 💬 Ask me about **HTML & CSS ,JAVASCRIPT**
 
-- 📫 How to reach me **harish011788@gmail.com**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- ⚡ Fun fact **  Coding 👨‍💻**
-
-- 
-<script>
-  const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+```javascript
+const Harish = {
+  pronouns: "=He" | "him",
+  technologies: {
+        language:{"Java","C","JavaScript"},
+        frontEnd: {
+            native: ["HTML & CSS", "JavaScript", "React js"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases & Clouds: ["mongo", "MySql","Firebase",GoogleCloud],
+        API :{"Postman API"},
+       
+    },
+  
+ funFact: "There are two ways to write error-free programs; only the third one works"
 }
-</script>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harish-ss-b50323247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harish-ss-b50323247/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/harishss20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harishss20/" height="30" width="40" /></a>
-<a href="https://discord.gg/#0954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0954" height="30" width="40" /></a>
-</p>
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishss20&show_icons=true&locale=en&layout=compact" alt="harishss20" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishss20&show_icons=true&locale=en" alt="harishss20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishss20&" alt="harishss20" /></p>
+---
