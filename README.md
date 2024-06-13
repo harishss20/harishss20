@@ -25,7 +25,8 @@ const Harish = {
       js: ["HTML & CSS","React js", "MangoDB", "TailwindCSS" ,"Node", "Express"]
     },
     databases & Clouds: ["MongoDB", "MySQL", "Firebase", "Google Cloud"],
-    tools: ["Postman API","Render"],
+    tools: ["Postman API","Figma", "Adobe Preimere Pro", "Adobe Photoshop"],
+
   },
   funFact: "There are two ways to write error-free programs; only the third one works"
 }
