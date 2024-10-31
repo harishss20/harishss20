@@ -3,7 +3,7 @@
 
 <p>
   <em>
-    Software Engineer at <a href="https://coderspacket.com/contributor/Harishss2002">Codespeedy Technology Private Limited</a><br>
+    <br>
     Personal Portfolio <a href="https://harishss.tech/">Link</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
 </p>
