@@ -22,7 +22,7 @@ const Harish = {
   technologies: {
     languages: ["Java", "C"],
     Full-stack: {
-      js: ["HTML & CSS","React js", "MangoDB", "TailwindCSS" ,"Node", "Express"]
+      js: ["HTML & CSS","React js", "MangoDB", "TailwindCSS" ,"Node", "Express js"]
     },
     databases & Clouds: ["MongoDB", "MySQL", "Firebase", "Google Cloud"],
     tools: ["Postman API","Figma", "Adobe Preimere Pro", "Adobe Photoshop"],
