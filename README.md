@@ -4,13 +4,14 @@
 <p>
   <em>
     <br>
-    Personal Portfolio <a href="https://harishblogs.hashnode.dev/">Link</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    Personal Portfolio <a href="https://harishss.tech/">Link</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
 </p>
+
 <p>
   <em>
     <br>
-    Blogs <a href="https://harishss.tech/">Link</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    Blogs <a href="https://harishblogs.hashnode.dev/">Link</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
 </p>
 
