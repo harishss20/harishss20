@@ -29,10 +29,10 @@ const Harish = {
   technologies: {
     languages: ["Java", "C"],
     Full-stack: {
-      js: ["HTML & CSS","React js", "MangoDB", "TailwindCSS" ,"Node", "Express js"]
+      js: ["HTML & CSS","React js", "MangoDB", "TailwindCSS" ,"Node", "Express js, Django"]
     },
-    databases & Clouds: ["MongoDB", "MySQL", "Firebase", "cloudflare"],
-    tools: ["Postman API","Figma", "Adobe Preimere Pro", "Adobe Photoshop"],
+    databases & Clouds: ["MongoDB", "MySQL", "Firebase", "cloudflare,"],
+    tools: ["Postman API","Figma", "Adobe Preimere Pro", "Adobe Photoshop, git & github"],
 
   },
   funFact: "There are two ways to write error-free programs; only the third one works"
