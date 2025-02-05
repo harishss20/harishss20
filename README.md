@@ -35,7 +35,7 @@ const Harish = {
     tools: ["Postman API","Figma", "Adobe Preimere Pro", "Adobe Photoshop, git & github"],
 
   },
-  funFact: "There are two ways to write error-free programs; only the third one works"
+  funFact: "My code is my canvas—I paint in binary dreams..."
 }
 ```
 
