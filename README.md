@@ -35,7 +35,7 @@ const Harish = {
     tools: ["Postman API","Figma", "Adobe Preimere Pro", "Adobe Photoshop, git & github"],
 
   },
-  funFact: "My code is my canvas—I paint in binary dreams..."
+  funFact: "Commits are the stars of my coding universe."
 }
 ```
 
