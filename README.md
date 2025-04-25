@@ -4,7 +4,7 @@
 <p>
   <em>
     <br>
-    Personal Portfolio <a href="https://harishss.tech/">Link</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ Portfolio <a href="https://harishss.tech/">Link</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
 </p>
 
