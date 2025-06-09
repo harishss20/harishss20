@@ -31,7 +31,7 @@ const Harish = {
     Full-stack: {
       js: ["HTML & CSS","React js", "MangoDB", "TailwindCSS" ,"Node", "Express js, Django Rest Framework, Spring Boot"]
     },
-    databases & Clouds: ["MongoDB", "MySQL", "Firebase", "cloudflare,"],
+    databases & Clouds: ["MongoDB", "MySQL", "Firebase", "cloudflare"],
     tools: ["Postman API","Figma", "Adobe Preimere Pro", "Adobe Photoshop, git & github"],
 
   },
