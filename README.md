@@ -29,10 +29,10 @@ const Harish = {
   technologies: {
     languages: ["Java", "C", "Python", "Go"],
     Full-stack: {
-      js: ["HTML & CSS","React js", "MangoDB", "TailwindCSS" ,"Node", "Express js, Django Rest Framework, Spring Boot"]
+      js: ["HTML & CSS","React js", "MangoDB", "TailwindCSS" ,"Node", "Express js, Django , Spring Boot"]
     },
     databases & Clouds: ["MongoDB", "MySQL", "Firebase", "cloudflare"],
-    tools: ["Postman API","Figma", "Adobe Preimere Pro", "Adobe Photoshop, git & github"],
+    tools: ["Postman API","Figma", "Adobe Preimere Pro", "Adobe Photoshop, vim, linux"],
 
   },
   funFact: "Commits are the stars of my coding universe."
