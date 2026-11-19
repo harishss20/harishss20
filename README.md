@@ -27,7 +27,7 @@
 const Harish = {
   pronouns: "He" | "him",
   technologies: {
-    languages: ["Java", "C", "Python", "Go"],
+    languages: ["Java", "C", "Python"],
     Full-stack: {
       js: ["HTML & CSS","React js", "MangoDB", "TailwindCSS" ,"Node", "Express js, Django , Spring Boot"]
     },
